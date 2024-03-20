@@ -11,7 +11,7 @@
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
-    <!--hoiii--><!--hoiii1--><!--hoiii2-->
+    <!--hoiii--><!--hoiii1--><!--hoiii2--><!--hoiii3-->
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
